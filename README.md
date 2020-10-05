@@ -4,7 +4,7 @@ Module 2: VBA of Wall Street
 Submitted by Isaac D. Tucker-Rasbury
 
 ## Overview of Project
-The subroutine we created for our client, Steve, analyzes the annual market performance of a list of stocks using observations of said stocks from January 1st to December 31st for the year of data provided. The subroutine compiles the daily trading volume for each stock and, also, identifies the return on each investment for the year. Steve intends to use the subroutine to help his parents identify their best options for stocks; his parents are interested in stocks in the energy sector and have asked him to help. To make reading the stock performance analysis easy for Steve's family, we have added conditional formatting in the subroutine to highlight important information for them to consider while making their investment decisions.
+The subroutine we created for our client, Steve, analyzes the annual market performance of a list of pre-provided stocks using observations of said stocks from January 1st to December 31st for the year of data provided. The subroutine compiles the daily trading volume for each stock and, also, identifies the return on each investment for the year into a table for a highlevel summary of the list of stocks' performance. Steve intends to use the subroutine to help his parents identify their best options for stocks; his parents are interested in stocks in the energy sector and have asked him to help. To make reading the stock performance analysis easy for Steve's family, we have added conditional formatting in the subroutine to highlight important information for them to consider while making their investment decisions.
 
 ## Results
 
