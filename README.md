@@ -8,6 +8,13 @@ The subroutine we created for our client, Steve, analyzes the annual market perf
 
 ## Results
 
+### Year over Year Stock Performance Analysis
+
+
+#### Execution Times
+
+
+
 
 ## Summary
 
